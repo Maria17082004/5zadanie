@@ -1,0 +1,7 @@
+producer:
+  timeout: 5000
+  consumer:
+    url: http://localhost:8080/api/v1/messages
+
+server:
+  port: 8081
