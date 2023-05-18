@@ -10,7 +10,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.stereotype.Component;
 
-@Component
 @RequiredArgsConstructor
 @SpringBootApplication
 public class ProducerApplication implements CommandLineRunner {
